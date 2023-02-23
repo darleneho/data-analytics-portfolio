@@ -12,7 +12,7 @@ MySQL Workbench, Tableau, Excel [Project_2 Link](https://github.com/darleneho/da
 
 ## Data Wrangling | Various Actvivites 
  1. [Hotel Project](https://github.com/darleneho/data-analytics-portfolio/blob/main/Data%20Wrangling/Data_Wrangling_Hotel_Project1.0%20(1).ipynb)
-    - This was a project based on data wrangling. The goal was to use data-wrangling skills to find the 10 falsified records in Howie's database and determine how much endangered baby rhino money he has laundered. Tools used: , 
+    - This was a project based on data wrangling. The goal was to use data-wrangling skills to find the 10 falsified records in Howie's database and determine how much endangered baby rhino money he has laundered. Tools used: JupyterLab, Excel
  
 2. [Lego Project](https://github.com/darleneho/data-analytics-portfolio/blob/main/Data%20Wrangling/lego_project.ipynb)
    - This Lego project was base exploring the datasets, it was not cleaned, so I had to go in and cleaning the data before I can answer a few of the questions. Tools used: JupyterLab
