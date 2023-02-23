@@ -9,3 +9,6 @@ The goal was to determinding which stars are most likely to have nearby planets 
 For this project, I created a dashboard that displays information about the bird migration routes for the three types of bird
 watcher. The project consist of three parts: SQL and Databases, Data Wrangling and Data Visualizations. Tools I used: JupyterLab,
 MySQL Workbench, Tableau, Excel [Project_2 Link](https://github.com/darleneho/data-analytics-portfolio/tree/main/Project_2)
+
+## Data Wrangling | Hotel Project
+This was a project based on data wrangling. The goal was to use data-wrangling skills to find the 10 falsified records in Howie's database and determine how much endangered baby rhino money he has laundered.
