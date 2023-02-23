@@ -16,3 +16,6 @@ MySQL Workbench, Tableau, Excel [Project_2 Link](https://github.com/darleneho/da
  
 2. [Lego Project](https://github.com/darleneho/data-analytics-portfolio/blob/main/Data%20Wrangling/lego_project.ipynb)
    - This Lego project was base exploring the datasets, it was not cleaned, so I had to go in and cleaning the data before I can answer a few of the questions. Tools used: JupyterLab
+
+## SQL | [Band Project](https://github.com/darleneho/data-analytics-portfolio/blob/main/SQL/band_schema.sql)
+This project was using what I learn in SQL to answer the Band assignment. Tools used: MySQL Workbench
