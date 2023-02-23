@@ -1,5 +1,4 @@
-\
-= usea Science & Analytics Portfolio
+# Data Science & Analytics Portfolio
 This repository contains projects and visualizations from the Data Science & Analytics program with UNLV. 
 
 ## Project_1: [Can life be supported by the yellow-dwarf stars?](https://github.com/darleneho/data-analytics-portfolio/blob/main/Project_1/MP%20Stars%20Report.pdf)
