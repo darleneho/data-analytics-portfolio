@@ -19,3 +19,7 @@ MySQL Workbench, Tableau, Excel [Project_2 Link](https://github.com/darleneho/da
 
 ## SQL | [Band Project](https://github.com/darleneho/data-analytics-portfolio/blob/main/SQL/Final%20SQL%20Project3.sql)
 This project was using what I learn in SQL to answer the Band assignment. Tools used: MySQL Workbench
+
+## Visual Communication | [Electric Vehicle Dashboards]
+In this project, I've collaborated with a classmate, Collin, and we had to create a viusal dashboard and present our project. The topic we chose was on EV and comparing them to regular gas vehicles and plug-in hybrid vehicles. Our target audience was the consumer who are looking into plug-in hybrid or electric vehicles. Tools used: Excel, Tableau, Miro (Brainstorming)
+Source data: [Fuel Economy](http://www.fueleconomy.gov)
