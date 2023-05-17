@@ -3,7 +3,7 @@ This repository contains projects and visualizations from the Data Science & Ana
 
 ## Milestone Project | [Breast Cancer Prediction Model](Breast Cancer/BC_Milestone_Project_3.ipynb)
 In this milestone, I've created a prediction model that predicts tumor sizes. All the codes are done in JupyterLab and my presentations are on a 
-[PowerPoint](https://1drv.ms/b/s!Akmg2RgVpMc63T9kAKgsXVAdrV5k?e=H5UJ2x). Tools used: JupyterLab, Microsoft PowerPoint [Project Link]
+[PowerPoint](https://1drv.ms/b/s!Akmg2RgVpMc63T9kAKgsXVAdrV5k?e=H5UJ2x). Tools used: JupyterLab, Microsoft PowerPoint [Project Link](https://github.com/darleneho/data-analytics-portfolio/tree/main/Breast%20Cancer)
 
 ## Visual Communication | [Electric Vehicle Dashboards](https://miro.com/app/board/uXjVP6lsl8A=/)
 In this project, I've collaborated with a classmate, [Collin](https://github.com/collinbashore/data-science-and-analytics-UNLV/tree/main/Visual%20Communications), and we had to create a viusal dashboard and present our project. The topic we chose was on EV and comparing them to regular gas vehicles and plug-in hybrid vehicles. Our target audience was the consumer who are looking into plug-in hybrid or electric vehicles. Tools used: Excel, Tableau, Miro (Brainstorming) [Project Link](https://github.com/darleneho/data-analytics-portfolio/tree/main/Visual%20Communication) Source data: [Fuel Economy](http://www.fueleconomy.gov)
