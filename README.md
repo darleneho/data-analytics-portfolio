@@ -1,7 +1,7 @@
 # Data Science & Analytics Portfolio
 This repository contains projects and visualizations from the Data Science & Analytics program with UNLV. 
 
-## Milestone Project | [Breast Cancer Prediction Model](Breast Cancer/BC_Milestone_Project_3.ipynb)
+## Milestone Project | [Breast Cancer Prediction Model](https://github.com/darleneho/data-analytics-portfolio/blob/main/Breast%20Cancer/BC_Milestone_Project_3.ipynb)
 In this milestone, I've created a prediction model that predicts tumor sizes. All the codes are done in JupyterLab and my presentations are on a 
 [PowerPoint](https://1drv.ms/b/s!Akmg2RgVpMc63T9kAKgsXVAdrV5k?e=H5UJ2x). Tools used: JupyterLab, Microsoft PowerPoint [Project Link](https://github.com/darleneho/data-analytics-portfolio/tree/main/Breast%20Cancer)
 
